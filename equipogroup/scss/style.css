@@ -1,0 +1,1545 @@
+@media (min-width: 0px) and (max-width: 400px) {
+  #about {
+    height: 18vh;
+    background-color: black;
+    overflow-x: hidden;
+  }
+  #about img {
+    opacity: 0.7;
+    width: 100%;
+    height: 18vh;
+    background-size: cover;
+    position: absolute;
+  }
+  #about h1 {
+    color: white;
+    position: relative;
+    padding: 10% 0 0 7%;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #company {
+    overflow-x: hidden;
+    padding-top: 10px;
+    height: 9vh;
+    background-color: #F6F6F6;
+  }
+  #company .left-box {
+    padding: 0 0 0 25px;
+  }
+  #company .left-box span {
+    font-size: 10px;
+  }
+  #company .left-box .left {
+    opacity: 0.8;
+  }
+  #company .right-box span {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #who {
+    overflow-x: hidden;
+    height: 75vh;
+    margin: 0 0 0 3%;
+  }
+  #who img {
+    background-size: cover;
+    width: 90%;
+    padding: 20px 0 0 40px;
+  }
+  #who h1 {
+    margin-top: 15%;
+    font-size: 20px;
+    margin-left: 1.5rem;
+  }
+  #who p {
+    opacity: 0.8;
+    margin-left: 1.5rem;
+    font-size: 10px;
+  }
+  #way {
+    color: white;
+    overflow-x: hidden;
+    height: 45vh;
+  }
+  #way .blue-box {
+    background-color: #082E60;
+    margin-bottom: 10%;
+  }
+  #way .blue-box p {
+    font-size: 10px;
+  }
+  #way .blue-box h1 {
+    font-size: 20px;
+  }
+  #way .blue-box h2 {
+    font-size: 30px;
+    font-weight: 700;
+  }
+  #way img {
+    display: none;
+  }
+  #different {
+    height: 80vh;
+    margin: 5% 0 0 3%;
+    overflow-x: hidden;
+  }
+  #different img {
+    background-size: cover;
+    width: 90%;
+    margin-top: 50px;
+  }
+  #different h1 {
+    margin-top: 15%;
+    font-size: 20px;
+  }
+  #different p {
+    opacity: 0.8;
+    margin-top: 1rem;
+    font-size: 10px;
+  }
+  #advantages {
+    height: 75vh;
+    background-color: #F8F8F8;
+    padding: 40px 0 0 20px;
+    overflow-x: hidden;
+  }
+  #advantages img {
+    width: 100%;
+    background-size: cover;
+    padding: 20% 0 0 0;
+  }
+  #advantages h1 {
+    font-size: 20px;
+  }
+  #advantages p {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #advantages .team p {
+    font-size: 10px;
+    font-weight: 700;
+    color: #082E60;
+  }
+  #advantages .team h6 {
+    font-size: 10px;
+    font-weight: 700;
+    color: #082E60;
+    margin-right: 50px;
+  }
+  #advantages .team .left::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 27%;
+  }
+  #advantages .team .right::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 27%;
+  }
+  #advantages .team i {
+    color: #082E60;
+    font-size: 1rem;
+  }
+  #value {
+    height: 90vh;
+    padding-top: 7%;
+    margin-top: 7%;
+    border-top: 3px dashed;
+    overflow-x: hidden;
+  }
+  #value img {
+    width: 100%;
+    padding-left: 30px;
+  }
+  #value .write {
+    padding-top: 6%;
+  }
+  #value .write h1 {
+    padding: 10px 30px;
+    font-size: 20px;
+  }
+  #value .write p {
+    padding: 10px 30px;
+    opacity: 0.8;
+    font-size: 10px;
+  }
+}
+@media (min-width: 400px) and (max-width: 567px) {
+  #about {
+    height: 18vh;
+    background-color: black;
+  }
+  #about img {
+    opacity: 0.7;
+    width: 100%;
+    height: 18vh;
+    background-size: cover;
+    position: absolute;
+  }
+  #about h1 {
+    color: white;
+    position: relative;
+    padding: 10% 0 0 7%;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #company {
+    padding-top: 10px;
+    height: 7vh;
+    background-color: #F6F6F6;
+  }
+  #company .left-box {
+    padding: 0 0 0 25px;
+  }
+  #company .left-box span {
+    font-size: 10px;
+  }
+  #company .left-box .left {
+    opacity: 0.8;
+  }
+  #company .right-box span {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #who {
+    height: 100vh;
+    margin: 0 0 0 3%;
+  }
+  #who img {
+    background-size: cover;
+    width: 90%;
+    padding: 20px 0 0 40px;
+  }
+  #who h1 {
+    margin: 10% 0 0 10%;
+    font-size: 25px;
+  }
+  #who p {
+    margin: 10% 0 0 10%;
+    opacity: 0.8;
+    margin-top: 1rem;
+    font-size: 15px;
+  }
+  #way {
+    color: white;
+    height: 70vh;
+  }
+  #way .blue-box {
+    background-color: #082E60;
+    margin-bottom: 10%;
+  }
+  #way .blue-box h2 {
+    font-size: 40px;
+    font-weight: 500;
+  }
+  #way img {
+    width: 100%;
+    height: 100%;
+    display: none;
+  }
+  #different {
+    height: 120vh;
+    margin-left: 8%;
+  }
+  #different img {
+    background-size: cover;
+    width: 90%;
+    margin-top: 50px;
+  }
+  #different h1 {
+    margin-top: 15%;
+    font-size: 25px;
+  }
+  #different p {
+    opacity: 0.8;
+    margin-top: 1rem;
+    font-size: 15px;
+  }
+  #advantages {
+    height: 90vh;
+    background-color: #F8F8F8;
+    padding-left: 5%;
+  }
+  #advantages img {
+    width: 90%;
+    height: 90%;
+    background-size: cover;
+    padding: 5% 0 0 5%;
+  }
+  #advantages h1 {
+    font-size: 25px;
+    margin-top: 5%;
+  }
+  #advantages p {
+    opacity: 0.8;
+    font-size: 15px;
+  }
+  #advantages .team p {
+    font-size: 10px;
+    font-weight: 700;
+    color: #082E60;
+  }
+  #advantages .team h6 {
+    font-size: 10px;
+    font-weight: 700;
+    color: #082E60;
+    margin-right: 50px;
+  }
+  #advantages .team .left::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 27%;
+  }
+  #advantages .team .right::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 27%;
+  }
+  #advantages .team i {
+    color: #082E60;
+    font-size: 1rem;
+  }
+  #value {
+    height: 120vh;
+    padding-top: 7%;
+    margin-top: 7%;
+    border-top: 3px dashed;
+  }
+  #value img {
+    width: 100%;
+    padding-left: 30px;
+  }
+  #value .write {
+    padding-top: 6%;
+  }
+  #value .write h1 {
+    padding: 10px 50px;
+    font-size: 25px;
+  }
+  #value .write p {
+    padding: 10px 50px;
+    opacity: 0.8;
+    font-size: 15px;
+  }
+}
+@media (min-width: 567px) and (max-width: 768px) {
+  #about {
+    height: 40vh;
+    background-color: black;
+  }
+  #about img {
+    opacity: 0.7;
+    width: 100%;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+  }
+  #about h1 {
+    color: white;
+    position: relative;
+    padding-top: 20%;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #company {
+    padding-top: 10px;
+    height: 10vh;
+    background-color: #F6F6F6;
+  }
+  #company .left-box {
+    padding: 20px 0 0 25px;
+  }
+  #company .left-box .left {
+    opacity: 0.8;
+  }
+  #company .right-box {
+    padding-left: 80px;
+  }
+  #company .right-box span {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #who {
+    height: 50vh;
+    margin: 5% 0 0 3%;
+  }
+  #who img {
+    background-size: cover;
+    width: 100%;
+  }
+  #who h1 {
+    font-size: 20px;
+  }
+  #who p {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #way {
+    color: white;
+    height: 70vh;
+  }
+  #way .blue-box {
+    background-color: #082E60;
+    padding: 5% 0 0 5%;
+    padding-right: -5%;
+  }
+  #way .blue-box p {
+    font-size: 15px;
+  }
+  #way .blue-box h1 {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  #way img {
+    display: none;
+  }
+  #way h2 {
+    font-size: 30px;
+    font-weight: 700;
+  }
+  #different {
+    height: 50vh;
+    margin: 5% 0 0 3%;
+  }
+  #different img {
+    background-size: cover;
+    width: 100%;
+  }
+  #different h1 {
+    font-size: 20px;
+  }
+  #different p {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+  #advantages {
+    height: 60vh;
+    background-color: #F8F8F8;
+    padding: 50px 0 0 40px;
+  }
+  #advantages img {
+    width: 100%;
+    background-size: cover;
+  }
+  #advantages h6 {
+    font-size: 10px;
+    color: #082E60;
+  }
+  #advantages p {
+    opacity: 0.8;
+    font-size: 12px;
+  }
+  #advantages h1 {
+    font-size: 25px;
+  }
+  #advantages .team p {
+    font-size: 20px;
+    font-weight: 700;
+    color: #082E60;
+  }
+  #advantages .team .left::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 15%;
+  }
+  #advantages .team .right::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 15%;
+  }
+  #advantages .team i {
+    color: #082E60;
+    font-size: 20px;
+  }
+  #value {
+    height: 50vh;
+    padding-top: 7%;
+    margin-top: 7%;
+    border-top: 3px dashed;
+  }
+  #value img {
+    width: 100%;
+    padding-left: 50px;
+  }
+  #value .write h1 {
+    font-size: 20px;
+  }
+  #value .write p {
+    opacity: 0.8;
+    font-size: 10px;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  #about {
+    height: 40vh;
+    background-color: black;
+  }
+  #about .boxes img {
+    opacity: 0.7;
+    width: 100%;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  #about .boxes h1 {
+    color: white;
+    position: relative;
+    padding: 10% 0 0 4%;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #company {
+    padding-top: 20px;
+    height: 15vh;
+    background-color: #F6F6F6;
+  }
+  #company .left-box {
+    padding-left: 25px;
+  }
+  #company .left-box .left {
+    opacity: 0.8;
+  }
+  #company .right-box {
+    padding-left: 80px;
+  }
+  #company .right-box span {
+    opacity: 0.8;
+  }
+  #who {
+    height: 50vh;
+    margin: 5% 0 0 3%;
+  }
+  #who img {
+    background-size: cover;
+    width: 90%;
+  }
+  #who h1 {
+    font-size: 20px;
+  }
+  #who p {
+    opacity: 0.8;
+    margin-top: 1rem;
+    font-size: 11px;
+  }
+  #way {
+    color: white;
+    height: 60vh;
+  }
+  #way .blue-box {
+    background-color: #082E60;
+    padding: 5% 0 0 5%;
+    padding-right: -5%;
+  }
+  #way .blue-box h2 {
+    font-size: 40px;
+    font-weight: 500;
+  }
+  #way img {
+    display: none;
+  }
+  #different {
+    height: 50vh;
+    margin: 5% 0 0 3%;
+  }
+  #different img {
+    background-size: cover;
+    width: 90%;
+  }
+  #different h1 {
+    font-size: 20px;
+  }
+  #different p {
+    opacity: 0.8;
+    margin-top: 1rem;
+    font-size: 12px;
+  }
+  #advantages {
+    height: 60vh;
+    background-color: #F8F8F8;
+    padding: 50px 0 0 70px;
+  }
+  #advantages img {
+    width: 100%;
+    background-size: cover;
+  }
+  #advantages p {
+    opacity: 0.8;
+    margin-right: 70px;
+    font-size: 10px;
+  }
+  #advantages h1 {
+    margin: 30px 0 30px 0;
+    font-size: 20px;
+  }
+  #advantages .team {
+    margin-top: 10px;
+  }
+  #advantages .team h6 {
+    font-size: 10px;
+    font-weight: 500;
+    color: #082E60;
+  }
+  #advantages .team .left::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 13%;
+  }
+  #advantages .team .right::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 30px;
+    background-color: #082E60;
+    margin-left: 13%;
+  }
+  #advantages .team i {
+    color: #082E60;
+    font-size: 15px;
+  }
+  #value {
+    height: 40vh;
+    padding-top: 7%;
+    margin-top: 7%;
+    border-top: 3px dashed;
+  }
+  #value img {
+    width: 100%;
+    padding-left: 50px;
+  }
+  #value .write h1 {
+    padding: 10px 50px;
+    font-size: 20px;
+  }
+  #value .write p {
+    padding: 10px 50px;
+    opacity: 0.8;
+    font-size: 10px;
+  }
+}
+@media (min-width: 992px) {
+  #about {
+    height: 40vh;
+    background-color: black;
+  }
+  #about .boxes img {
+    opacity: 0.7;
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    position: absolute;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  #about .boxes h1 {
+    color: white;
+    position: relative;
+    padding: 10% 0 0 4%;
+    font-size: 50px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #company {
+    padding-top: 20px;
+    height: 10vh;
+    background-color: #F6F6F6;
+  }
+  #company .left-box {
+    padding-left: 25px;
+  }
+  #company .left-box .left {
+    opacity: 0.8;
+  }
+  #company .right-box {
+    padding-left: 80px;
+  }
+  #company .right-box span {
+    opacity: 0.8;
+  }
+  #who {
+    height: 70vh;
+    margin: 5% 0 0 3%;
+  }
+  #who img {
+    background-size: cover;
+    width: 90%;
+  }
+  #who h1 {
+    margin-top: 15%;
+  }
+  #who p {
+    opacity: 0.8;
+    margin-top: 1rem;
+  }
+  #way {
+    color: white;
+    height: 70vh;
+  }
+  #way .blue-box {
+    background-color: #082E60;
+    padding: 5% 15% 0 5%;
+  }
+  #way .blue-box h2 {
+    font-size: 40px;
+    font-weight: 500;
+  }
+  #way img {
+    width: 100%;
+    height: 100%;
+    margin-top: -5%;
+    right: 0;
+    width: 720px !important;
+  }
+  #different {
+    height: 70vh;
+    margin: 5% 0 0 3%;
+  }
+  #different img {
+    background-size: cover;
+    width: 90%;
+  }
+  #different h1 {
+    margin-top: 15%;
+  }
+  #different p {
+    opacity: 0.8;
+    margin-top: 1rem;
+  }
+  #advantages {
+    height: 76vh;
+    background-color: #F8F8F8;
+    padding: 50px 0 0 70px;
+  }
+  #advantages img {
+    width: 100%;
+    background-size: cover;
+  }
+  #advantages p {
+    opacity: 0.8;
+    margin-right: 70px;
+  }
+  #advantages h1 {
+    margin: 30px 0 30px 0;
+  }
+  #advantages .team {
+    margin: 70px 70px 0 0;
+  }
+  #advantages .team h6 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #082E60;
+  }
+  #advantages .team .left::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 50px;
+    background-color: #082E60;
+    margin-left: 13%;
+  }
+  #advantages .team .right::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 50px;
+    background-color: #082E60;
+    margin-left: 13%;
+  }
+  #advantages .team i {
+    color: #082E60;
+    font-size: 20px;
+    margin: 10% 0 0 60%;
+  }
+  #value {
+    height: 90vh;
+    padding-top: 7%;
+    margin-top: 7%;
+    border-top: 3px dashed;
+  }
+  #value img {
+    width: 100%;
+    padding-left: 50px;
+  }
+  #value .write {
+    padding-top: 6%;
+  }
+  #value .write h1 {
+    padding: 10px 50px;
+  }
+  #value .write p {
+    padding: 10px 50px;
+    opacity: 0.8;
+  }
+}
+@media (min-width: 0px) and (max-width: 567px) {
+  #header {
+    height: 100%;
+  }
+  #header .parents {
+    display: none;
+  }
+  #header .tel {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0);
+    transition: background-color 0.5s;
+  }
+  #header .tel div .logoo {
+    transition: background-color 0.5s;
+  }
+  #header .tel div .logoo .navico i {
+    font-size: 15px;
+    color: white;
+  }
+  #header .tel div .logoo .logo1 {
+    width: 120px;
+  }
+  #header .tel div .ul {
+    width: 104%;
+    position: absolute;
+    top: 100%;
+    left: -4%;
+    opacity: 0;
+    transition: 0.5s;
+    background-color: white;
+    transform: translateY(-5px);
+  }
+  #header .tel div .ul.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  #header .tel div .ul .ul1 li {
+    padding: 10px 0;
+  }
+  #header .tel div .ul .ul1 li a {
+    width: 100%;
+    border-bottom: 2px solid rgb(224, 223, 223);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 600;
+    color: #1b287e;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #header .tel div .ul .ul2 li a {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    padding: 20px 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+  }
+  #header .tel div .ul .ul3 {
+    margin-top: 10px;
+  }
+  #header .tel div .ul .ul3 li p {
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #1b287e;
+    text-decoration: none;
+  }
+  #header .tel div .ul .ul4 li a {
+    font-size: 1rem;
+    padding-top: 10px;
+    color: #384281;
+    text-decoration: none;
+    display: inline-block;
+  }
+  #footer #accordionExample div {
+    border: none;
+  }
+  #footer #accordionExample button {
+    color: #082E60;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  #footer #accordionExample .ul {
+    position: relative;
+    list-style: none;
+    left: -30px;
+  }
+  #footer #accordionExample .ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #footer .tel {
+    margin-top: 10px;
+    position: relative;
+    left: 20px;
+  }
+  #footer .tel .fin a {
+    padding: 0 5px;
+    text-decoration: none;
+    color: #2034B4;
+    display: inline-block;
+  }
+  #footer .tel .the {
+    margin-top: 13px;
+  }
+  #footer .tel .the a {
+    display: inline-block;
+    padding: 0 8px;
+    font-size: 14px;
+    color: #19256e;
+  }
+  #footer hr {
+    display: none;
+  }
+  #footer .foot div div:nth-child(4) {
+    display: none;
+  }
+  #footer .foot div div:nth-child(3) {
+    display: none;
+  }
+  #footer .foot div div:nth-child(2) {
+    display: none;
+  }
+  #footer .foot div div div {
+    position: relative;
+    left: 5px;
+    top: 10px;
+  }
+  #footer .foot div div div .fa {
+    display: none;
+  }
+  #footer .foot div div div .fa i {
+    display: none;
+  }
+  #footer .foot div div div p {
+    font-size: 15px;
+    left: -50px;
+    margin-top: 10px;
+  }
+  #footer .foot div div div .logo {
+    position: relative;
+    top: 0;
+    width: 200px;
+  }
+  #footer .finish {
+    display: none;
+  }
+}
+@media (min-width: 567px) and (max-width: 576px) {
+  #header {
+    height: 100%;
+  }
+  #header .parents {
+    display: none;
+  }
+  #header .tel {
+    position: fixed;
+    background-color: white;
+    z-index: 999;
+    width: 100%;
+  }
+  #header .tel div .logoo {
+    margin-top: 10px;
+  }
+  #header .tel div .logoo .navico i {
+    font-size: 20px;
+  }
+  #header .tel div .logoo .logo1 {
+    width: 150px;
+  }
+  #header .tel div .ul {
+    width: 104%;
+    position: absolute;
+    top: 100%;
+    left: -4%;
+    opacity: 0;
+    transition: 0.5s;
+    background-color: white;
+    transform: translateY(-5px);
+  }
+  #header .tel div .ul.active {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  #header .tel div .ul .ul1 li {
+    padding: 10px 0;
+  }
+  #header .tel div .ul .ul1 li a {
+    width: 100%;
+    border-bottom: 2px solid rgb(224, 223, 223);
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 600;
+    color: #1b287e;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #header .tel div .ul .ul2 li a {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    padding: 20px 0;
+    font-size: 17px;
+    font-weight: 700;
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+  }
+  #header .tel div .ul .ul3 {
+    margin-top: 10px;
+  }
+  #header .tel div .ul .ul3 li p {
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #1b287e;
+    text-decoration: none;
+  }
+  #header .tel div .ul .ul4 li a {
+    font-size: 1rem;
+    padding-top: 10px;
+    color: #384281;
+    text-decoration: none;
+    display: inline-block;
+  }
+  #footer #accordionExample div {
+    border: none;
+  }
+  #footer #accordionExample button {
+    color: #082E60;
+    font-size: 15px;
+    font-weight: 500;
+  }
+  #footer #accordionExample .ul {
+    position: relative;
+    list-style: none;
+    left: -30px;
+  }
+  #footer #accordionExample .ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  #footer .tel {
+    margin-top: 10px;
+    position: relative;
+    left: 20px;
+  }
+  #footer .tel .fin a {
+    padding: 0 5px;
+    text-decoration: none;
+    color: #2034B4;
+    display: inline-block;
+  }
+  #footer .tel .the {
+    margin-top: 13px;
+  }
+  #footer .tel .the a {
+    display: inline-block;
+    padding: 0 8px;
+    font-size: 14px;
+    color: #19256e;
+  }
+  #footer hr {
+    display: none;
+  }
+  #footer .foot div div:nth-child(4) {
+    display: none;
+  }
+  #footer .foot div div:nth-child(3) {
+    display: none;
+  }
+  #footer .foot div div:nth-child(2) {
+    display: none;
+  }
+  #footer .foot div div div {
+    position: relative;
+    left: 5px;
+    top: 10px;
+  }
+  #footer .foot div div div .fa {
+    display: none;
+  }
+  #footer .foot div div div .fa i {
+    display: none;
+  }
+  #footer .foot div div div p {
+    font-size: 15px;
+    left: -50px;
+    margin-top: 10px;
+  }
+  #footer .foot div div div .logo {
+    position: relative;
+    top: 0;
+    width: 200px;
+  }
+  #footer .finish {
+    display: none;
+  }
+}
+@media (min-width: 576px) and (max-width: 992px) {
+  #header {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0);
+    transition: background-color 0.5s;
+  }
+  #header.scrolled {
+    background-color: rgba(255, 255, 255, 0.945);
+  }
+  #header .tel {
+    display: none;
+  }
+  #header hr {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: -25px;
+  }
+  #header .parents {
+    margin: auto;
+    width: 95%;
+  }
+  #header .parents .boxes .boxes1 ul {
+    position: relative;
+    bottom: -10px;
+  }
+  #header .parents .boxes .boxes1 ul li p {
+    font-size: 12px;
+    font-weight: 500;
+    color: #2034B4;
+    display: inline-block;
+    padding: 20px 6px;
+    text-decoration: none;
+  }
+  #header .parents .boxes .boxes2 a {
+    font-size: 13px;
+    color: #152170;
+    display: inline-block;
+    padding: 20px 5px;
+    text-decoration: none;
+  }
+  #header .parents .boxes .boxes2 ul {
+    padding: 0 10px;
+    z-index: 1;
+  }
+  #header .parents .boxes .boxes2 ul li {
+    position: relative;
+  }
+  #header .parents .boxes .boxes2 ul li a {
+    display: block;
+    padding: 20px 0;
+  }
+  #header .parents .boxes .boxes2 ul li a i {
+    margin-left: 5px;
+  }
+  #header .parents .boxes .boxes2 ul li:hover ul {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(45px);
+  }
+  #header .parents .boxes .boxes2 ul li ul {
+    display: block;
+    position: absolute;
+    opacity: 0;
+    left: -35%;
+    transition: 0.5s;
+    top: 0%;
+    visibility: hidden;
+    width: 55px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    transform: translateY(0);
+  }
+  #header .parents .boxes .boxes2 ul li ul li {
+    list-style: none;
+    text-align: center;
+  }
+  #header .parents .boxes .boxes2 ul li ul li a {
+    text-decoration: none;
+    color: blue;
+    padding: 2px 0;
+    margin: 0;
+    transition: 0.3s;
+  }
+  #header .parents .boxes .boxes2 ul li ul li a:hover {
+    color: orange;
+  }
+  #header .parents .box1 {
+    position: relative;
+    bottom: 15px;
+  }
+  #header .parents .box1 .logo {
+    width: 130px;
+  }
+  #header .parents .box1 div ul li {
+    padding: 0 8px;
+  }
+  #header .parents .box1 div ul li:nth-child(1) a {
+    border-bottom: 2px solid #2034B4;
+  }
+  #header .parents .box1 div ul li a {
+    padding: 0 5px;
+    font-size: 13px;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+    color: #2034B4;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .tel {
+    display: none;
+  }
+  #footer #accordionExample {
+    display: none;
+  }
+  #footer .foot div div:nth-child(4) div {
+    padding-top: 10px;
+  }
+  #footer .foot div div:nth-child(4) div ul a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(4) div ul li p {
+    width: 100%;
+  }
+  #footer .foot div div:nth-child(3) div {
+    padding-top: 10px;
+  }
+  #footer .foot div div:nth-child(3) div ul a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(3) div ul li {
+    margin-bottom: 10px;
+  }
+  #footer .foot div div:nth-child(3) div ul li p {
+    display: inline;
+  }
+  #footer .foot div div:nth-child(2) div {
+    padding-top: 10px;
+    margin-left: 70px;
+  }
+  #footer .foot div div:nth-child(2) div ul .a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(2) div ul li a {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-weight: 350;
+  }
+  #footer .foot div div div {
+    margin-left: 60px;
+  }
+  #footer .foot div div div .fa {
+    width: 20%;
+  }
+  #footer .foot div div div .fa a {
+    padding: 0 15px;
+    color: #1b287e;
+    font-size: 15px;
+  }
+  #footer .foot div div div p {
+    width: 150%;
+    font-size: 15px;
+    padding-bottom: 30px;
+  }
+  #footer .foot div div div .logo {
+    position: relative;
+    top: -15px;
+    left: -60px;
+    width: 170px;
+  }
+  #footer .finish {
+    background-color: #082E60;
+    height: 45px;
+    display: flex;
+  }
+  #footer .finish div {
+    margin-left: 20px;
+  }
+  #footer .finish div div p {
+    display: block;
+    color: white;
+    font-size: 14px;
+    margin: 0;
+  }
+  #footer .finish div div .aa {
+    padding: 0 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  }
+  #footer .finish div div .a {
+    padding: 0 20px;
+    border-left: 1px solid white;
+  }
+  #footer .finish div div a {
+    color: white;
+    font-size: 14px;
+  }
+}
+@media (min-width: 992px) {
+  #header {
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0);
+    transition: background-color 0.5s;
+  }
+  #header.scrolled {
+    background-color: rgba(255, 255, 255, 0.945);
+  }
+  #header .tel {
+    display: none;
+  }
+  #header hr {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: -25px;
+  }
+  #header .parents {
+    margin: auto;
+    width: 95%;
+  }
+  #header .parents .boxes .boxes1 ul {
+    position: relative;
+    bottom: -10px;
+  }
+  #header .parents .boxes .boxes1 ul li p {
+    font-size: 14px;
+    font-weight: 500;
+    color: #2034B4;
+    display: inline-block;
+    padding: 20px 10px;
+    text-decoration: none;
+  }
+  #header .parents .boxes .boxes2 a {
+    font-size: 17px;
+    color: #152170;
+    display: inline-block;
+    padding: 20px 8px;
+    text-decoration: none;
+  }
+  #header .parents .boxes .boxes2 ul {
+    padding: 0 15px;
+    z-index: 1;
+  }
+  #header .parents .boxes .boxes2 ul li {
+    position: relative;
+  }
+  #header .parents .boxes .boxes2 ul li a {
+    display: block;
+    padding: 20px 0;
+  }
+  #header .parents .boxes .boxes2 ul li a i {
+    margin-left: 5px;
+  }
+  #header .parents .boxes .boxes2 ul li:hover ul {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(45px);
+  }
+  #header .parents .boxes .boxes2 ul li ul {
+    display: block;
+    position: absolute;
+    opacity: 0;
+    left: -35%;
+    transition: 0.5s;
+    top: 0%;
+    visibility: hidden;
+    width: 65px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+    transform: translateY(0);
+  }
+  #header .parents .boxes .boxes2 ul li ul li {
+    list-style: none;
+    text-align: center;
+  }
+  #header .parents .boxes .boxes2 ul li ul li a {
+    text-decoration: none;
+    color: blue;
+    padding: 2px 0;
+    margin: 0;
+    transition: 0.3s;
+  }
+  #header .parents .boxes .boxes2 ul li ul li a:hover {
+    color: orange;
+  }
+  #header .parents .box1 {
+    position: relative;
+    bottom: 15px;
+  }
+  #header .parents .box1 .logo {
+    width: 150px;
+  }
+  #header .parents .box1 div ul li {
+    padding: 0 25px;
+  }
+  #header .parents .box1 div ul li:nth-child(1) a {
+    border-bottom: 2px solid #2034B4;
+  }
+  #header .parents .box1 div ul li a {
+    padding: 0 6px;
+    font-size: 15px;
+    font-weight: 600;
+    display: inline-block;
+    text-decoration: none;
+    color: #2034B4;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .foto img {
+    width: 100%;
+  }
+  #footer .tel {
+    display: none;
+  }
+  #footer #accordionExample {
+    display: none;
+  }
+  #footer .foot div div:nth-child(4) div {
+    padding-top: 10px;
+  }
+  #footer .foot div div:nth-child(4) div ul a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(4) div ul li p {
+    width: 100%;
+  }
+  #footer .foot div div:nth-child(3) div {
+    padding-top: 10px;
+  }
+  #footer .foot div div:nth-child(3) div ul a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(3) div ul li {
+    margin-bottom: 10px;
+  }
+  #footer .foot div div:nth-child(3) div ul li p {
+    display: inline;
+  }
+  #footer .foot div div:nth-child(2) div {
+    padding-top: 10px;
+    margin-left: 70px;
+  }
+  #footer .foot div div:nth-child(2) div ul .a {
+    color: #1b287e;
+    text-decoration: none;
+    display: inline-block;
+    padding-bottom: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  #footer .foot div div:nth-child(2) div ul li a {
+    text-decoration: none;
+    display: inline-block;
+    color: black;
+    font-weight: 350;
+  }
+  #footer .foot div div div {
+    margin-left: 60px;
+  }
+  #footer .foot div div div .fa {
+    width: 20%;
+  }
+  #footer .foot div div div .fa a {
+    padding: 0 15px;
+    color: #1b287e;
+    font-size: 15px;
+  }
+  #footer .foot div div div p {
+    width: 71%;
+    font-size: 15px;
+    padding-bottom: 25px;
+  }
+  #footer .foot div div div .logo {
+    position: relative;
+    top: -15px;
+    left: -60px;
+    width: 170px;
+  }
+  #footer .finish {
+    background-color: #082E60;
+    height: 45px;
+    display: flex;
+  }
+  #footer .finish div {
+    margin-left: 20px;
+  }
+  #footer .finish div div p {
+    display: block;
+    color: white;
+    font-size: 14px;
+    margin: 0;
+  }
+  #footer .finish div div .aa {
+    padding: 0 20px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+  }
+  #footer .finish div div .a {
+    padding: 0 20px;
+    border-left: 1px solid white;
+  }
+  #footer .finish div div a {
+    color: white;
+    font-size: 14px;
+  }
+}/*# sourceMappingURL=style.css.map */
